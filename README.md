@@ -50,7 +50,12 @@ It also features **real-time camera preview** using OpenCV.
 pip install pillow opencv-python
 
 2.Run the Script
+<<<<<<< HEAD
 python webcam_security_tool.py
+=======
+<<<<<<< HEAD
+python webcam1.py
+>>>>>>> c212b9f (Resolve README.md merge conflict and add assets)
 
 3.Administrator Mode Required
 Tool requires admin rights to enable/disable devices.
@@ -100,5 +105,64 @@ Camera device management
 📬 Contact
 Name: Ajans S
 Email: ajans2222s.a@gmail.com
+<<<<<<< HEAD
 LinkedIn: https://www.linkedin.com/in/ajans-s/
 GitHub: https://github.com/Ajans-45/
+=======
+LinkedIn: [Your LinkedIn Link]
+GitHub: [Your GitHub Link]
+=======
+python webcam_security_tool.py
+
+3.Administrator Mode Required
+Tool requires admin rights to enable/disable devices.
+
+```
+
+Screenshots:
+
+![Application UI](assets/ui.png)
+
+Internship Certificate:
+
+![Internship Certificate](assets/supraja_completion.jpg)
+
+📈 Skills Demonstrated
+⦁	Python scripting for hardware control
+
+⦁	GUI development with Tkinter
+
+⦁	Secure authentication & logging
+
+⦁	PowerShell automation
+
+Camera device management
+
+⚠️ Limitations
+
+⦁	Password stored in plain text (password.txt) – should be replaced with a secure hashing mechanism.
+
+⦁	Requires PowerShell execution – works only on Windows with administrator privileges.
+
+⦁	No remote monitoring or alerts for unauthorized attempts.
+
+🔮 Future Improvements
+⦁	Implement secure password hashing (bcrypt/argon2).
+
+⦁	Send logs to email with SMTP + encryption for real-time alerts.
+
+⦁	Option for cloud backup of logs to a secure server.
+
+⦁	Multi-user role-based access control (admin vs guest access).
+
+⦁	Add cross-platform support for Linux and macOS.
+
+⦁	Real-time threat detection for unknown processes accessing the camera.
+
+📬 Contact
+Name: Ajans S
+Email: ajans2222s.a@gmail.com
+LinkedIn: https://www.linkedin.com/in/ajans-s/
+GitHub: https://github.com/Ajans-45/
+>>>>>>> a63cce9 (Initial commit - Webcam  Security Tool)
+>>>>>>> c212b9f (Resolve README.md merge conflict and add assets)
