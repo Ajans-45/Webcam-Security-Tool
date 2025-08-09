@@ -68,7 +68,7 @@ Screenshots:
 
 Internship Certificate:
 
-![Internship Certificate](assets/supraja_completeion.jpg)
+![Internship Certificate](assets/supraja_completion.jpg)
 
 📈 Skills Demonstrated
 ⦁	Python scripting for hardware control
